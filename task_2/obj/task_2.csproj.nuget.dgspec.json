@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_1\\task_1.csproj": {}
+    "C:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_2\\task_2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_1\\task_1.csproj": {
+    "C:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_2\\task_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_1\\task_1.csproj",
-        "projectName": "task_1",
-        "projectPath": "c:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_1\\task_1.csproj",
+        "projectUniqueName": "C:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_2\\task_2.csproj",
+        "projectName": "task_2",
+        "projectPath": "C:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_2\\task_2.csproj",
         "packagesPath": "C:\\Users\\DNS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_1\\obj\\",
+        "outputPath": "C:\\Users\\DNS\\Desktop\\Учеба\\Homwork5\\task_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DNS\\AppData\\Roaming\\NuGet\\NuGet.Config",
